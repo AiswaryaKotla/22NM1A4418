@@ -1,0 +1,9 @@
+{
+  "name": "afm-logging-middleware",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "description": "Lightweight client-side logging middleware with localStorage persistence and optional HTTP transport.",
+  "license": "MIT"
+}
